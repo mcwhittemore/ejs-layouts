@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mcwhittemore/ejs-layouts.git"
   },
   "keywords": [
     "ejs",
