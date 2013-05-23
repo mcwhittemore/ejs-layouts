@@ -1,0 +1,24 @@
+{
+  "name": "ejs-layouts",
+  "version": "0.0.1",
+  "author": "Matthew Chase Whittemore <mcwhittemore@gmail.com>",
+  "description": "add layout options for ejs to frameworks",
+  "main": "index",
+  "contributors": [
+    {
+      "name": "Matthew Chase Whittemore",
+      "email": "mcwhittemore@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "ejs",
+    "layout",
+    "layouts",
+    "express",
+    "blocks"
+  ]
+}
