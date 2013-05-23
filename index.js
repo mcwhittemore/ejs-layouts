@@ -34,7 +34,6 @@ module.exports.express = function(req, res, next){
 
 
 	res.layout = function(layout_file, data, blocks, callback){
-		console.log(Object.keys(this));
 		if(data==undefined){
 			res.render(layout_file);
 			return;
